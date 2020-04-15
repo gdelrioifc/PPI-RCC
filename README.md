@@ -41,7 +41,7 @@ In which the terms between braces are replaced as follow (whitout the braces):
 Abbreviations:
 
 	norm = normalization used in the construction of the training or testing data sets
-	stand = standardized used in the construction of the training or testing data sets
+	stand = standardization used in the construction of the training or testing data sets
 	raw = data used as is in the training or testing set
 	7 = distance of 7 Å used to generate the contact map
 	8 = distance of 8 Å used to generate the contact map
@@ -49,8 +49,8 @@ Abbreviations:
 	yesSC = with side chain
 	con = concatenation of RCC
 	sum = sum of RCC
-	under = the type of undersampling used
-	PPI = Protein-Protein interaction.
+	under = undersampling
+	PPI = Protein-Protein interaction
 	P = positive PPI pairs of proteins
 	N = negative PPI pairs of proteins
 	sz1 = undersampling 1:1 (P:N)
