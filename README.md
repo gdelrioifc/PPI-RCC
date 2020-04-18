@@ -1,5 +1,4 @@
 # PPI-RCC
-# PPI-RCC
 Supplementary material for the publication entitled "Protein-Protein interactions efficiently modeled by residue cluster classes" by Albros Hermes Poot Velez, Fernando Fontove and Gabriel Del Rio
 
 This repository contains 8 directories.
