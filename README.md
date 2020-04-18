@@ -30,8 +30,9 @@ The following folders contain the algorithms resulting of the training sets, com
 
 	viii) training_models_compressed_stand_8: 60 algorithms resulting of AutoWEKA Bayesian search on the training set with the dataset standardized and a distance criterion of 8 Å.
 
+All these models were generated with <a href="https://www.cs.waikato.ac.nz/ml/weka/">Weka</a>, a freely available implementation in Java language for machine learning methods.
 
-After decompressing the training_models, to test this algorithms is needed to identify its corresponding testing_set. For this mean, the first 3 fields on each file (separated by underscore), are the same between testing (ii) and training files (iii-viii). 
+After decompressing the training_models, to test these algorithms we provide the corresponding testing_set. For this mean, the first 3 fields on each file (separated by underscore), are the same between testing (ii) and training files (iii-viii). 
 
 The following is an example of the the code to test the algorithms:
 
