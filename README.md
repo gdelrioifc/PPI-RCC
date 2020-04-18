@@ -76,5 +76,7 @@ Abbreviations:
 	sz2 = undersampling 2:1 (P:N)
 	sz3 = undersampling 3:1 (P:N)
 	it1, it2 or it3 = the random iteration seed used for the undersampling
-	over200 = the synthetic oversampling used to generate the same quantity of negative instances 1:2 (P:N)
-	over300 = the synthetic oversampling used to generate twice the quantity of negative instances 1:3 (P:N)
+	over200 = the synthetic oversampling used to generate twice negative instances than positive one 1:2 (P:N)
+	over300 = the synthetic oversampling used to generate three times more negative instances than positive ones 1:3 (P:N)
+	In these last two cases, a copy of the original negative set was included, thus only 1 and 2 copies of instances of this
+	original negative set were synthetically generated, respectively.
