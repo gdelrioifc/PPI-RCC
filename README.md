@@ -104,5 +104,6 @@ Abbreviations:
 	it1, it2 or it3 = the random iteration seed used for the undersampling
 	over200 = the synthetic oversampling used to generate twice negative instances than positive one 1:2 (P:N)*
 	over300 = the synthetic oversampling used to generate three times more negative instances than positive ones 1:3 (P:N)*
-	*In these two cases, a copy of the original negative set was included, thus only 1 and 2 copies of instances of this
-	original negative set were synthetically generated, respectively.
+	
+*In these two cases, a copy of the original negative set was included, thus only 1 and 2 copies of instances of this
+original negative set were synthetically generated, respectively.
